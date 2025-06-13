@@ -1,24 +1,24 @@
 # SpeedyLabX
 
-**SpeedyLabX** is a student-led research group dedicated to exploring and developing projects in the fields of Artificial Intelligence and Data Science.
+**SpeedyLabX** is a student-led research group from FPT University, focused on Artificial Intelligence and academic exploration in Data Science.
 
 ## 📌 About Us
 
-Founded by three undergraduate students from FPT University majoring in AI, SpeedyLabX serves as a collaborative space for academic research, experimentation, and innovation in cutting-edge technologies.
+SpeedyLabX was founded by three undergraduate AI majors at FPT University. The group operates under the mentorship of **Ms. Minh Thư**, and aims to cultivate a research-driven mindset while building practical, impactful projects in the AI field.
 
-Our focus includes:
+Our key interests include:
 - Machine Learning & Deep Learning
-- Data Science & Analysis
-- Research on applied AI in various domains
+- Data Science & Analytics
+- Applied and academic AI research
 
 ## 🎯 Mission
 
-We aim to cultivate a strong research mindset, build practical projects, and contribute to the growing AI ecosystem through academic rigor and hands-on development.
+To explore, experiment, and contribute to the AI landscape through disciplined research and real-world applications — fostering both individual growth and collective innovation.
 
 ## 🔒 Access & Contribution
 
-Currently, this organization is **private and internal** to the founding members. Public contributions are not accepted at this stage.
+SpeedyLabX is currently an **internal research group**. External collaboration is not open at this stage.
 
-## 🧭 Direction
+## 🚧 Roadmap
 
-We are actively building our research portfolio, and preparing to publish and open-source selected projects in the near future.
+We are actively building our research portfolio and preparing to open-source selected projects in the future.
